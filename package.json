@@ -1,0 +1,14 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "monitor vm resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wspluta",
+  "license": "ISC",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
+}
