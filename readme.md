@@ -9,3 +9,9 @@ it takes reading ever 15 seconds and writes it to the `system_stats.log`
     - Node 18 
 
 ![Alt text](images/app.png?raw=true "app")
+
+## Instructions
+
+- git clone this repo
+- run `npm install` in the root of the cloned folder
+- initiate logging with `node index.js`
